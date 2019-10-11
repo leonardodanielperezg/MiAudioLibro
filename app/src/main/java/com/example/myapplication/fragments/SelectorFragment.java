@@ -1,5 +1,5 @@
 package com.example.myapplication.fragments;
-/*
+
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.Context;
@@ -86,4 +86,3 @@ public class SelectorFragment {
     }
 
 }
-*/

@@ -11,7 +11,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.Vector;
 
-/*public class AdaptadorLibros extends RecyclerView.Adapter<AdaptadorLibros.ViewHolder> {
+public class AdaptadorLibros extends RecyclerView.Adapter<AdaptadorLibros.ViewHolder> {
     private LayoutInflater inflador;
     protected Vector<Libro> vectorLibros;
     private Context contexto;
@@ -44,4 +44,3 @@ import java.util.Vector;
         return new ViewHolder(v);
     }
 }
-*/
